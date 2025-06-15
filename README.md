@@ -63,9 +63,3 @@ Currently working on a <em>highly optimized, faster, and cleaner</em> clone of <
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaXianbibi&show_icons=true&theme=radical" />
-</p>
