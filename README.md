@@ -46,7 +46,7 @@ Currently working on a <em>highly optimized, faster, and cleaner</em> clone of <
 
 ### 🔭 Current Project
 
-🚧 Building a **more efficient, faster, and cleaner** clone of <code>n8n</code> — because I really dislike the original's performance and complexity.
+🚧 Building a **more efficient, faster, and cleaner** clone of <code>n8n</code>, because I really dislike the original's performance and complexity.
 
 ---
 
